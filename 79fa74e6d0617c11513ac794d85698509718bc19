@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "4fdc4dc3_523c9954",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000093
+      },
+      "writtenOn": "2026-04-16T13:42:33Z",
+      "side": 1,
+      "message": "Checked, build dependencies is correct.",
+      "revId": "79fa74e6d0617c11513ac794d85698509718bc19",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    }
+  ]
+}
