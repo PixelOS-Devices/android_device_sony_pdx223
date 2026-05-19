@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "db1c9922_1be0fca1",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000093
+      },
+      "writtenOn": "2026-05-19T04:43:26Z",
+      "side": 1,
+      "message": "Tested on PDX223, correct variant is shown in Settings.\nKeep the product.rf.id props in init.sony.rc, seems to be read by nv_updater.",
+      "revId": "b6dc4273cb30ca0fc19f9d4ff0aa8150fbba5c68",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    }
+  ]
+}
